@@ -1,7 +1,7 @@
 
 ## 💁🏼‍♀️ Hi there, I'm Alessia! 😊
 
-* I work as a data coordinator and analyst in global health research at Emory University in Atlanta, USA!
+* I work as a data engineer at Booz Allen Hamilton!
 * I've lived in Australia, Canada, Italy, and the USA! 
 * My multicultural background and diverse qualifications, combined with my technical expertise, make me uniquely equipped to tackle complex data challenges!
 
