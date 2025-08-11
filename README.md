@@ -8,7 +8,7 @@
 ## 🧰 Tools
 
 * Languages: R, Python, SAS, SQL
-* Databases: Microsoft Access, Microsoft SQL Server, MySQL, REDCap
+* Databases: PostgreSQL, Microsoft Access, Microsoft SQL Server, MySQL, REDCap
 * Visualization: PowerBI, Tableau, Shiny
 
 ## 〰️ Contact Me!
